@@ -36,32 +36,32 @@ export default {
 		slides: [
 			{
 				quote:
-					'Space Station 13 is one of the finest sandbox simulations available, for free or otherwise.',
+					'Space Station 13 — один из лучших симуляторов песочницы, доступных как бесплатно, так и по иной причине.',
 				author: 'Rock, Paper, Shotgun',
 			},
 			{
 				quote:
-					'Almost anything is possible, every round is different, and everyone is insane. And those are just some of the reasons I love Space Station 13.',
+					'Почти все возможно, каждый раунд отличается, и все игроки безумны. И это лишь некоторые из причин, по которым я люблю Космическую станцию 13.',
 				author: 'PC GAMER',
 			},
 			{
 				quote:
-					"Space Station 13 has fallen prey to a cadre of cultists... What can I possibly do? I pick up my mop and swab at a blood-puddle. Because that's my job. I'm just the janitor.",
+					"Космическая станция 13 стала жертвой культистов... Что я могу сделать? Я могу взять швабру и начать оттирать лужу крови. Потому что это моя работа. Потому что я обычный уборщик.",
 				author: 'PCGamesN',
 			},
 			{
 				quote:
-					'The requirement for mass co-operation between internet strangers creates an entertaining state of utter shambles. Expect to explode. A lot.',
+					'Необходимость коммуникации между незнакомцами из Интернета создает развлекательное состояние полнейшего хаоса. Ожидайте взрыв. Много взрывов.',
 				author: 'PC GAMER UK',
 			},
 			{
 				quote:
-					'A sci-fi multiplayer sandbox with the same utterly batshit more-is-more design as Dwarf Fortress.',
+					'Научно-фантастическая многопользовательская песочница с таким же дерьмовым дизайном, что и Dwarf Fortress.',
 				author: 'Rock, Paper, Shotgun',
 			},
 			{
 				quote:
-					'Space Station 13 is different from any other game because, like so many other great things, it was an accident.',
+					'Space Station 13 отличается от любой другой игры, потому что, как и многие другие замечательные вещи, она появилась случайно.',
 				author: 'https://return.life - Robert Mariani',
 			},
 		],

@@ -4,7 +4,7 @@
 		:class="{ 'nav-links--vertical': layout === 'vertical' }"
 	>
 		<div class="page-links flex">
-			<NuxtLink to="/">About</NuxtLink>
+			<NuxtLink to="/">Главная</NuxtLink>
 			<Dropdown class="nav-sub" :inline="layout === 'vertical'">
 				<template #toggler="{ toggle }">
 					<a
@@ -17,12 +17,12 @@
 					</a>
 				</template>
 				<div class="nav-sub__links">
-					<NuxtLink to="/play/how-to">How To Play</NuxtLink>
-					<NuxtLink to="/play/quick">Quick Play</NuxtLink>
-					<NuxtLink to="/play/browser">Server Browser</NuxtLink>
+					<NuxtLink to="/play/how-to">Начать играть</NuxtLink>
+					<NuxtLink to="/play/quick">Быстрый старт</NuxtLink>
+					<NuxtLink to="/play/browser">Браузер серверов</NuxtLink>
 				</div>
 			</Dropdown>
-			<NuxtLink to="/media">Media</NuxtLink>
+			<NuxtLink to="/media">Медиа</NuxtLink>
 		</div>
 
 		<div class="social-links ml-auto pl-4 items-center flex gap-2">

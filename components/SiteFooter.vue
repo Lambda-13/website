@@ -13,12 +13,12 @@
 			<p>
 				Copyright
 				<font-awesome-icon icon="copyright" class="mx-1" />
-				2022 Space Station 13
+				2023 Space Station 13
 			</p>
 			<p>
-				Source available on
+				Исходный код сайта доступен на
 				<a
-					href="https://github.com/spacestation13/website"
+					href="https://github.com/Lambda-13/website"
 					rel="external"
 					target="_blank"
 				>

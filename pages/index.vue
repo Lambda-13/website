@@ -3,69 +3,59 @@
 		<HeroHeader />
 
 		<main class="content py-12 lg:text-lg lg:py-16 xl:py-24 debris-bg">
-			<div class="max-w-screen-xl mx-auto px-4">
-				<div class="card mb-8 lg:mb-12">
-					<h2 class="mb-4 lg:mb-5 content-heading content-heading--primary">
-						Survive if you can
-					</h2>
+            <div class="max-w-screen-xl mx-auto px-4">
+                <div class="card mb-8 lg:mb-12">
+                    <h2 class="mb-4 lg:mb-5 content-heading content-heading--primary">
+                        Ролевая игра с элементами выживания
+                    </h2>
 
-					<p class="mb-4 lg:mb-6">
-						In the not too distant future, crewmembers aboard space stations
-						owned by corporations work tirelessly to keep the lights on. Just
-						doing their job isn't enough - they must also fight to stay alive in
-						the harsh environment of space and survive the dangers that lurk in
-						the darkness.
-					</p>
-					<p>
-						Tell your own story in the worlds of Space Station 13, a multiplayer
-						sandbox simulation bristling with features. Developed for over 18
-						years with over a thousand contributors, the world of SS13 is
-						ever-changing.
-					</p>
-				</div>
+                    <p class="mb-4 lg:mb-6">
+                        В недалеком будущем члены экипажа космических станций,
+                        принадлежащих корпорациям, неустанно работают, чтобы
+                        поддерживать работу систем станций. Просто выполнять свою работу
+                        недостаточно - им также приходится бороться за выживание в
+                        суровой космической среде и справляться с опасностями, которые
+                        скрываются во тьме.
+                    </p>
+                    <p>
+                        Расскажите свою собственную историю в мирах Space Station 13,
+                        многопользовательской песочнице, которая богата возможностями.
+                        Разрабатываемая на протяжении более 20 лет с участием
+                        тысячи участников, мир SS13 постоянно меняется.
+                    </p>
+                </div>
 
 				<TestimonialSlider class="mt-4 mb-6 lg:mt-8 lg:mb-10 lg:mx-10" />
 
 				<div class="flex flex-col lg:flex-row lg:mb-8">
 					<div class="flex flex-col mb-8 lg:mr-8 lg:mb-0">
 						<h2 class="mb-4 lg:mb-8 content-heading content-heading--primary">
-							Gameplay &amp; features
+							Геймплейные особенности
 						</h2>
 
 						<ul
 							class="flex h-full flex-col justify-between gap-4 ml-6 features"
 						>
 							<li>
-								Play a variety of roles on the station, ranging from lowly staff
-								assistants, to engineers keeping the power on, to the captain
-								ruling all with an iron fist.
+								Играйте самые разные роли на станции, начиная от скромных помощников персонала, заканчивая инженерами, поддерживающими питание, и капитаном, правящим всем железной рукой.
 							</li>
 							<li>
-								Disrupt the station as varying antagonists: RPG-toting nuclear
-								operatives, shape-shifting aliens, angry wizards hell-bent on
-								revenge, and more.
+								Взорвите станцию, играя за разных антагонистов: ядерных оперативников цель которых уничтожить станцию, инопланетян которые похищают людей, генокрадов меняющих форму, злых волшебников, и многими другими.
 							</li>
 							<li>
-								Unleash your creativity with a myriad of complex systems in the
-								course of your work, such as detailed medical simulation and
-								researching mysterious alien artifacts with deadly but
-								advantageous rewards.
+								Дайте волю своему творчеству и занимайтесь не только ролевой игрой. Множество сложных систем в процессе работы, таких как детальная медицина и исследование загадочных инопланетных артефактов со смертельными, но выгодными наградами делают игровой процесс ещё более интересным
 							</li>
 							<li>
-								Experience 100% player-driven gameplay, where no two rounds will
-								play the same.
+								Испытайте на себе игровой процесс, управляемый игроками, где нет повторяющихся одинаковых раундов.
 							</li>
 							<li>
-								Discover ancient ruins and strange creatures on nearby planets,
-								and uncover their secrets.
+								Откройте для себя древние руины и странных существ на близлежащих планетах и раскройте их историю и секреты.
 							</li>
 							<li>
-								Be wary of imposters among the crew, out to kill you and others!
-								Deduce their identities with quick wits or forensics.
+								Остерегайтесь всего! Выясните личности предателей среди экипажа с помощью сообразительности или криминалистики.
 							</li>
 							<li>
-								Experience random occupational hazards, such as decompression,
-								radiation storms, rogue AI, and meteor showers.
+								Испытайте случайные профессиональные опасности, такие как разгерметизация отсека, радиационные бури, взломаный Исскуственный Интелект, метеоритные дожди и многое другое.
 							</li>
 						</ul>
 					</div>
